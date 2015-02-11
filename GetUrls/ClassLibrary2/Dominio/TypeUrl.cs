@@ -19,17 +19,15 @@ namespace UrlNames.Dominio
             UrlName = urlName;
         }
 
-        public void GetContentByXML()
+        public void GetContentByXML(string urlName)
         {
+            
             var request = WebRequest.Create("http://g1.globo.com/dynamo/rss2.xml");
 
             WebResponse response = request.GetResponse();
             Stream dataStream = response.GetResponseStream();
             var reader = new StreamReader(dataStream);
-            
-
-
-
+        
         }
 
     }
