@@ -1,0 +1,4 @@
+C:\Users\Vinicius Matos\Documents\Visual Studio 2013\Projects\GetUrls\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Vinicius Matos\Documents\Visual Studio 2013\Projects\GetUrls\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Vinicius Matos\Documents\Visual Studio 2013\Projects\GetUrls\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Vinicius Matos\Documents\Visual Studio 2013\Projects\GetUrls\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
